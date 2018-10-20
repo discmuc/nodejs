@@ -1,0 +1,8 @@
+{
+    "name": "app_002",
+    "version": "0.0.1",
+    "description": "demo application 2",
+    "dependencies": {
+        "express": "4.16.4"
+    }
+}
